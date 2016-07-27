@@ -1,5 +1,5 @@
 {
-  "name": "now-fs",
+  "name": "now-fs-bug",
   "version": "1.0.0",
   "description": "Reproducing an issue I'm having with nowjs",
   "main": "index.js",
